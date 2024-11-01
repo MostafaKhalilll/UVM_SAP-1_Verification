@@ -1,0 +1,11 @@
+// Code your design here
+`include "cpu.v"
+`include "a_register.v"
+`include "alu.v"
+`include "b_register.v"
+`include "controller.v"
+`include "instruction_register.v"
+`include "mar.v"
+`include "memory.v"
+`include "output_register.v"
+`include "program_counter.v"
